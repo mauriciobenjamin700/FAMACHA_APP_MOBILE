@@ -1,0 +1,10 @@
+Cor do fundo: #D0F5FF
+
+Cor da barra superior, barra inferior e a barra da mensagem "Deseja realizar a análise?": #F2DCA5
+
+Cor dos botôes (capturar imagens e galeria de imagens), botão "analisar" e botal voltar: #CEB863
+
+cor do fundo da mensagem "Deseja realizar a análise?" e do botão cancelar: FFFFFF
+
+
+
