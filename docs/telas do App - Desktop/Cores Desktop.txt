@@ -1,0 +1,11 @@
+Cor do fundo: #D0F5FF
+
+Cor da barra superior, barra inferior e a barra da mensagem "Deseja realizar a análise?": #F2DCA5
+
+Cor dos botôes (pasta de imagens e imagem), fndo do botão do icone xlsx e botal voltar: #CEB863
+
+botão "analisar" e salvar: 2EF17C
+
+cor do fundo da mensagem "Deseja realizar a análise?": FFFFFF
+
+botão cancelar: DDD9D9
